@@ -69,12 +69,12 @@ To classify:
 The raw data for each experiment is organized in a slightly different format. Section II data needs to be processed in order to be used with the Gaze Visualizer. Section IV data does not need to be processed.
 
 For Section II data: 
-- run code/process_section_ii_data.py. 
+- run python/process_section_ii_data.py. 
 - Press the “Load VR” button. 
 - Navigate to the extracted folder (which should contain subfolders 1-16) and select it. 
 The code should reorganize the data into a single CSV. For your convenience, this has been included (data/full_data_sec_ii.csv).
 
-This file contains a lot of extra information that is not needed for the Gaze Visualizer. To speed up import time, run code/reduce_sec_ii_data.py, and only include the following categories:
+This file contains a lot of extra information that is not needed for the Gaze Visualizer. To speed up import time, run python/reduce_sec_ii_data.py, and only include the following categories:
 1. AR_VR
 2. User
 3. Time
