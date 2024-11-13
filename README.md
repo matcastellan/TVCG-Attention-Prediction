@@ -7,7 +7,7 @@ The dataset for Section II includes a single experiment involving 16 users. In c
 
 Additionally, there are two corresponding project files: sec_ii_project.zip for Section II and sec_iv_project.zip for Section IV. Each project file is specifically designed to work with its respective dataset.
 
-## Working with Section II Data (Gaze Visualizer)
+## Working with Section II Data
 To run the Gaze Visualizer for the Section II experiments:
 - Unzip sec_ii_project.zip.
 - Open the project using Unity Hub with Unity 2021.3.18f1. Hit Continue when prompted.
@@ -32,7 +32,9 @@ To classify:
 When you are finished, hit Esc to go back to the main menu. You can then export the data by pressing “Export Answer CSV”, and choosing a directory, which will save the data as “answers.csv”.
 
 ## Working with Section IV Data
-Section IV data has a separate project and scenes for the Section IV experiments to facilitate reconstruction, given that certain models must be externally downloaded and re-added to the project due to copyright constraints. To begin:
+Section IV data has a separate project and scenes for the Section IV experiments to facilitate reconstruction, given that certain models must be externally downloaded and re-added to the project due to copyright constraints. 
+
+To run the Gaze Visualizer for the Section IV experiments:
 - Unzip sec_iv_project.zip.
 - Open the project using Unity Hub with Unity 2021.3.4f1. Hit Continue when prompted.
 - Import the following packages if they are not automatically imported:
