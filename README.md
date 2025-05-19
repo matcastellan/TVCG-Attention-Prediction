@@ -1,4 +1,4 @@
-# TVCG-2024-Attention-Prediction
+# TVCG-Attention-Prediction
 
 ## Files
 There are two distinct datasets: one for the experiments conducted in Section II (sec_ii_experiments.zip) and another for those in Section IV (sec_iv_experiments.zip).
