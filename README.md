@@ -20,7 +20,7 @@ To run the Gaze Visualizer for the Section II experiments:
 - Run in editor using the Play Button
 - Optional: You can adjust the FOV slider on the camera to make the spheres easier to see, or you can enable Unity Mock HMD under XR Plugin Management (once installed) in Project Settings. Alternatively, if you connect an HTC Vive Pro (or Pro Eye), install Steam VR, and add it to the project, you can set up the camera such that you can view what the user was looking at directly through the headset.
 
-You will need to either manually process the data (See Processing the Data section), or use data/full_data_sec_ii_reduced.csv and import it using the Import CSV button, which will take a long time.
+You will need to either manually process the data (See Processing the Data section), or use data/sec_ii_full_data_reduced.csv and import it using the Import CSV button, which will take a long time.
 
 Once data has been loaded/imported, click “Explore Trials”. The scene will change. Basic navigation controls are listed at the bottom of the window. Here you can play through trials, and classify them or auto-classify them.
 To classify:
@@ -72,9 +72,9 @@ For Section II data:
 - run python/process_section_ii_data.py. 
 - Press the “Load VR” button. 
 - Navigate to the extracted folder (which should contain subfolders 1-16) and select it. 
-The code should reorganize the data into a single CSV. For your convenience, this has been included (data/full_data_sec_ii.csv).
+The code should reorganize the data into a single CSV. This file contains a lot of extra information that is not needed for the Gaze Visualizer.
 
-This file contains a lot of extra information that is not needed for the Gaze Visualizer. To speed up import time, run python/reduce_sec_ii_data.py, and only include the following categories:
+To speed up import time, run python/reduce_sec_ii_data.py, and only include the following categories:
 1. AR_VR
 2. User
 3. Time
@@ -97,7 +97,7 @@ This file contains a lot of extra information that is not needed for the Gaze Vi
 20. B_gabor
 21. B_worldPos
 
-Click “Run”. The file will be saved as “full_data_sec_ii_reduced.csv” in the same folder. This file can be imported into the Gaze Visualizer in sec_ii_project.zip.
+Click “Run”. The file will be saved as “full_data_reduced.csv” in the same folder. This file can be imported into the Gaze Visualizer in sec_ii_project. For your convenience, this file has been included.
 
 
 
