@@ -1,15 +1,15 @@
 # TVCG-Attention-Prediction
 
 ## Files
-There are two distinct datasets: one for the experiments conducted in Section II (sec_ii_experiments.zip) and another for those in Section IV (sec_iv_experiments.zip).
+There are two distinct datasets: one for the experiments conducted in Section II (sec_ii_experiments) and another for those in Section IV (sec_iv_experiments).
 
 The dataset for Section II includes a single experiment involving 16 users. In contrast, the dataset for Section IV covers 9 experiments, categorized by scene complexity (simple, normal, motion) and scene type (cemetery, office, space).
 
-Additionally, there are two corresponding project files: sec_ii_project.zip for Section II and sec_iv_project.zip for Section IV. Each project file is specifically designed to work with its respective dataset.
+Additionally, there are two corresponding project folders: sec_ii_project for Section II and sec_iv_project for Section IV. Each project file is specifically designed to work with its respective dataset.
 
 ## Working with Section II Data
 To run the Gaze Visualizer for the Section II experiments:
-- Unzip sec_ii_project.zip.
+- Download sec_ii_project.
 - Open the project using Unity Hub with Unity 2021.3.18f1. Hit Continue when prompted.
 - Import the following packages if they are not automatically imported:
   - ProBuilder 5.0.7
@@ -20,7 +20,7 @@ To run the Gaze Visualizer for the Section II experiments:
 - Run in editor using the Play Button
 - Optional: You can adjust the FOV slider on the camera to make the spheres easier to see, or you can enable Unity Mock HMD under XR Plugin Management (once installed) in Project Settings. Alternatively, if you connect an HTC Vive Pro (or Pro Eye), install Steam VR, and add it to the project, you can set up the camera such that you can view what the user was looking at directly through the headset.
 
-The quickest way to get started is to simply press “Load Data”, which loads a save file of already imported data. You can also manually process the data (See Processing the Data section), or use data/full_data_sec_ii_reduced.csv and import it using the Import CSV button, but this will take much longer.
+You will need to either manually process the data (See Processing the Data section), or use data/full_data_sec_ii_reduced.csv and import it using the Import CSV button, which will take a long time.
 
 Once data has been loaded/imported, click “Explore Trials”. The scene will change. Basic navigation controls are listed at the bottom of the window. Here you can play through trials, and classify them or auto-classify them.
 To classify:
@@ -35,7 +35,7 @@ When you are finished, hit Esc to go back to the main menu. You can then export 
 Section IV data has a separate project and scenes for the Section IV experiments to facilitate reconstruction, given that certain models must be externally downloaded and re-added to the project due to copyright constraints. 
 
 To run the Gaze Visualizer for the Section IV experiments:
-- Unzip sec_iv_project.zip.
+- Unzip sec_iv_project.
 - Open the project using Unity Hub with Unity 2021.3.4f1. Hit Continue when prompted.
 - Import the following packages if they are not automatically imported:
   - ProBuilder 5.0.7
