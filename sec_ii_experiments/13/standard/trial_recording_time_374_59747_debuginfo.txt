@@ -1,0 +1,1026 @@
+cID=0 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=96.37941
+thetaA=ccw_90 thetaB=ccw_180 shiftA=6.379409 shiftB=34.75208
+ relativePos=(-0.02, 0.17, 2.00) 
+cID=0 ecceB=1 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.1749773 final thetaB=214.7521
+thetaA=ccw_90 thetaB=ccw_180 shiftA=6.379409 shiftB=34.75208
+ relativePos=(-0.14, -0.10, 2.00) 
+cID=1 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=263.6
+thetaA=ccw_225 thetaB=ccw_315 shiftA=38.60004 shiftB=25.20268
+ relativePos=(-0.02, -0.17, 2.00) 
+cID=1 ecceB=1 depthB=2 sizeB=1 depthB=5 ecce_radiusB=0.4374433 final thetaB=340.2027
+thetaA=ccw_225 thetaB=ccw_315 shiftA=38.60004 shiftB=25.20268
+ relativePos=(0.41, -0.15, 5.00) 
+cID=2 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=286.9626
+thetaA=ccw_270 thetaB=ccw_180 shiftA=16.96259 shiftB=36.9808
+ relativePos=(0.05, -0.17, 2.00) 
+cID=2 ecceB=1 depthB=3 sizeB=1 depthB=8 ecce_radiusB=0.6999093 final thetaB=216.9808
+thetaA=ccw_270 thetaB=ccw_180 shiftA=16.96259 shiftB=36.9808
+ relativePos=(-0.56, -0.42, 8.00) 
+cID=3 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=147.0938
+thetaA=ccw_135 thetaB=ccw_225 shiftA=12.09377 shiftB=4.10879
+ relativePos=(-0.37, 0.24, 5.00) 
+cID=3 ecceB=1 depthB=2 sizeB=1 depthB=5 ecce_radiusB=0.4374433 final thetaB=229.1088
+thetaA=ccw_135 thetaB=ccw_225 shiftA=12.09377 shiftB=4.10879
+ relativePos=(-0.29, -0.33, 5.00) 
+cID=4 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=209.7732
+thetaA=ccw_180 thetaB=ccw_90 shiftA=29.77316 shiftB=13.31811
+ relativePos=(-0.38, -0.22, 5.00) 
+cID=4 ecceB=1 depthB=3 sizeB=1 depthB=8 ecce_radiusB=0.6999093 final thetaB=103.3181
+thetaA=ccw_180 thetaB=ccw_90 shiftA=29.77316 shiftB=13.31811
+ relativePos=(-0.16, 0.68, 8.00) 
+cID=5 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=94.35415
+thetaA=ccw_90 thetaB=ccw_225 shiftA=4.354148 shiftB=30.23108
+ relativePos=(-0.05, 0.70, 8.00) 
+cID=5 ecceB=1 depthB=3 sizeB=1 depthB=8 ecce_radiusB=0.6999093 final thetaB=255.2311
+thetaA=ccw_90 thetaB=ccw_225 shiftA=4.354148 shiftB=30.23108
+ relativePos=(-0.18, -0.68, 8.00) 
+cID=6 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=313.3494
+thetaA=ccw_270 thetaB=ccw_0 shiftA=43.34941 shiftB=28.24681
+ relativePos=(0.12, -0.13, 2.00) 
+cID=6 ecceB=2 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.5358984 final thetaB=28.24681
+thetaA=ccw_270 thetaB=ccw_0 shiftA=43.34941 shiftB=28.24681
+ relativePos=(0.47, 0.25, 2.00) 
+cID=7 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=167.87
+thetaA=ccw_135 thetaB=ccw_0 shiftA=32.86999 shiftB=13.66215
+ relativePos=(-0.17, 0.04, 2.00) 
+cID=7 ecceB=2 depthB=2 sizeB=1 depthB=5 ecce_radiusB=1.339746 final thetaB=13.66215
+thetaA=ccw_135 thetaB=ccw_0 shiftA=32.86999 shiftB=13.66215
+ relativePos=(1.30, 0.32, 5.00) 
+cID=8 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=127.9659
+thetaA=ccw_90 thetaB=ccw_90 shiftA=37.96594 shiftB=37.19074
+ relativePos=(-0.11, 0.14, 2.00) 
+cID=8 ecceB=2 depthB=3 sizeB=1 depthB=8 ecce_radiusB=2.143594 final thetaB=127.1907
+thetaA=ccw_90 thetaB=ccw_90 shiftA=37.96594 shiftB=37.19074
+ relativePos=(-1.30, 1.71, 8.00) 
+cID=9 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=238.921
+thetaA=ccw_225 thetaB=ccw_90 shiftA=13.92102 shiftB=29.90572
+ relativePos=(-0.23, -0.37, 5.00) 
+cID=9 ecceB=2 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.5358984 final thetaB=119.9057
+thetaA=ccw_225 thetaB=ccw_90 shiftA=13.92102 shiftB=29.90572
+ relativePos=(-0.27, 0.46, 2.00) 
+cID=10 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=12.26031
+thetaA=ccw_0 thetaB=ccw_90 shiftA=12.26031 shiftB=0.574556
+ relativePos=(0.43, 0.09, 5.00) 
+cID=10 ecceB=2 depthB=2 sizeB=1 depthB=5 ecce_radiusB=1.339746 final thetaB=90.57455
+thetaA=ccw_0 thetaB=ccw_90 shiftA=12.26031 shiftB=0.574556
+ relativePos=(-0.01, 1.34, 5.00) 
+cID=11 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=285.2756
+thetaA=ccw_270 thetaB=ccw_270 shiftA=15.27564 shiftB=26.70383
+ relativePos=(0.12, -0.42, 5.00) 
+cID=11 ecceB=2 depthB=3 sizeB=1 depthB=8 ecce_radiusB=2.143594 final thetaB=296.7038
+thetaA=ccw_270 thetaB=ccw_270 shiftA=15.27564 shiftB=26.70383
+ relativePos=(0.96, -1.91, 8.00) 
+cID=12 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=304.7124
+thetaA=ccw_270 thetaB=ccw_225 shiftA=34.71236 shiftB=34.4653
+ relativePos=(0.40, -0.58, 8.00) 
+cID=12 ecceB=2 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.5358984 final thetaB=259.4653
+thetaA=ccw_270 thetaB=ccw_225 shiftA=34.71236 shiftB=34.4653
+ relativePos=(-0.10, -0.53, 2.00) 
+cID=13 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=264.6975
+thetaA=ccw_225 thetaB=ccw_90 shiftA=39.6975 shiftB=38.15135
+ relativePos=(-0.06, -0.70, 8.00) 
+cID=13 ecceB=2 depthB=2 sizeB=1 depthB=5 ecce_radiusB=1.339746 final thetaB=128.1514
+thetaA=ccw_225 thetaB=ccw_90 shiftA=39.6975 shiftB=38.15135
+ relativePos=(-0.83, 1.05, 5.00) 
+cID=14 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=157.1443
+thetaA=ccw_135 thetaB=ccw_315 shiftA=22.14427 shiftB=44.27981
+ relativePos=(-0.64, 0.27, 8.00) 
+cID=14 ecceB=2 depthB=3 sizeB=1 depthB=8 ecce_radiusB=2.143594 final thetaB=359.2798
+thetaA=ccw_135 thetaB=ccw_315 shiftA=22.14427 shiftB=44.27981
+ relativePos=(2.14, -0.03, 8.00) 
+cID=15 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=219.9233
+thetaA=ccw_180 thetaB=ccw_135 shiftA=39.92328 shiftB=15.70717
+ relativePos=(-0.13, -0.11, 2.00) 
+cID=15 ecceB=3 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.9326153 final thetaB=150.7072
+thetaA=ccw_180 thetaB=ccw_135 shiftA=39.92328 shiftB=15.70717
+ relativePos=(-0.81, 0.46, 2.00) 
+cID=16 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=141.0961
+thetaA=ccw_135 thetaB=ccw_45 shiftA=6.096076 shiftB=0.9914786
+ relativePos=(-0.14, 0.11, 2.00) 
+cID=16 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=45.99148
+thetaA=ccw_135 thetaB=ccw_45 shiftA=6.096076 shiftB=0.9914786
+ relativePos=(1.62, 1.68, 5.00) 
+cID=17 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=136.5155
+thetaA=ccw_135 thetaB=ccw_90 shiftA=1.515518 shiftB=16.46082
+ relativePos=(-0.13, 0.12, 2.00) 
+cID=17 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=106.4608
+thetaA=ccw_135 thetaB=ccw_90 shiftA=1.515518 shiftB=16.46082
+ relativePos=(-1.06, 3.58, 8.00) 
+cID=18 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=146.6113
+thetaA=ccw_135 thetaB=ccw_315 shiftA=11.6113 shiftB=39.67265
+ relativePos=(-0.37, 0.24, 5.00) 
+cID=18 ecceB=3 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.9326153 final thetaB=354.6726
+thetaA=ccw_135 thetaB=ccw_315 shiftA=11.6113 shiftB=39.67265
+ relativePos=(0.93, -0.09, 2.00) 
+cID=19 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=142.3967
+thetaA=ccw_135 thetaB=ccw_270 shiftA=7.396658 shiftB=30.28178
+ relativePos=(-0.35, 0.27, 5.00) 
+cID=19 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=300.2818
+thetaA=ccw_135 thetaB=ccw_270 shiftA=7.396658 shiftB=30.28178
+ relativePos=(1.18, -2.01, 5.00) 
+cID=20 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=39.15955
+thetaA=ccw_0 thetaB=ccw_45 shiftA=39.15955 shiftB=17.15611
+ relativePos=(0.34, 0.28, 5.00) 
+cID=20 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=62.15611
+thetaA=ccw_0 thetaB=ccw_45 shiftA=39.15955 shiftB=17.15611
+ relativePos=(1.74, 3.30, 8.00) 
+cID=21 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=118.0773
+thetaA=ccw_90 thetaB=ccw_315 shiftA=28.07726 shiftB=15.72593
+ relativePos=(-0.33, 0.62, 8.00) 
+cID=21 ecceB=3 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.9326153 final thetaB=330.7259
+thetaA=ccw_90 thetaB=ccw_315 shiftA=28.07726 shiftB=15.72593
+ relativePos=(0.81, -0.46, 2.00) 
+cID=22 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=233.0869
+thetaA=ccw_225 thetaB=ccw_0 shiftA=8.086898 shiftB=41.40305
+ relativePos=(-0.42, -0.56, 8.00) 
+cID=22 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=41.40305
+thetaA=ccw_225 thetaB=ccw_0 shiftA=8.086898 shiftB=41.40305
+ relativePos=(1.75, 1.54, 5.00) 
+cID=23 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=239.7327
+thetaA=ccw_225 thetaB=ccw_225 shiftA=14.73274 shiftB=17.88945
+ relativePos=(-0.35, -0.60, 8.00) 
+cID=23 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=242.8895
+thetaA=ccw_225 thetaB=ccw_225 shiftA=14.73274 shiftB=17.88945
+ relativePos=(-1.70, -3.32, 8.00) 
+cID=24 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=288.8822
+thetaA=ccw_270 thetaB=ccw_315 shiftA=18.8822 shiftB=22.99306
+ relativePos=(0.17, -0.51, 2.00) 
+cID=24 ecceB=2 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.5358984 final thetaB=337.9931
+thetaA=ccw_270 thetaB=ccw_315 shiftA=18.8822 shiftB=22.99306
+ relativePos=(0.50, -0.20, 2.00) 
+cID=25 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=279.5216
+thetaA=ccw_270 thetaB=ccw_45 shiftA=9.521622 shiftB=7.340906
+ relativePos=(0.09, -0.53, 2.00) 
+cID=25 ecceB=2 depthB=2 sizeB=1 depthB=5 ecce_radiusB=1.339746 final thetaB=52.3409
+thetaA=ccw_270 thetaB=ccw_45 shiftA=9.521622 shiftB=7.340906
+ relativePos=(0.82, 1.06, 5.00) 
+cID=26 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=153.2433
+thetaA=ccw_135 thetaB=ccw_270 shiftA=18.24325 shiftB=42.86939
+ relativePos=(-0.48, 0.24, 2.00) 
+cID=26 ecceB=2 depthB=3 sizeB=1 depthB=8 ecce_radiusB=2.143594 final thetaB=312.8694
+thetaA=ccw_135 thetaB=ccw_270 shiftA=18.24325 shiftB=42.86939
+ relativePos=(1.46, -1.57, 8.00) 
+cID=27 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=5.522368
+thetaA=ccw_0 thetaB=ccw_90 shiftA=5.522368 shiftB=16.70143
+ relativePos=(1.33, 0.13, 5.00) 
+cID=27 ecceB=2 depthB=2 sizeB=1 depthB=5 ecce_radiusB=1.339746 final thetaB=106.7014
+thetaA=ccw_0 thetaB=ccw_90 shiftA=5.522368 shiftB=16.70143
+ relativePos=(-0.39, 1.28, 5.00) 
+cID=28 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=191.1805
+thetaA=ccw_180 thetaB=ccw_315 shiftA=11.1805 shiftB=6.672521
+ relativePos=(-1.31, -0.26, 5.00) 
+cID=28 ecceB=2 depthB=3 sizeB=1 depthB=8 ecce_radiusB=2.143594 final thetaB=321.6725
+thetaA=ccw_180 thetaB=ccw_315 shiftA=11.1805 shiftB=6.672521
+ relativePos=(1.68, -1.33, 8.00) 
+cID=29 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=185.2552
+thetaA=ccw_180 thetaB=ccw_315 shiftA=5.25522 shiftB=11.63227
+ relativePos=(-2.13, -0.20, 8.00) 
+cID=29 ecceB=2 depthB=3 sizeB=1 depthB=8 ecce_radiusB=2.143594 final thetaB=326.6323
+thetaA=ccw_180 thetaB=ccw_315 shiftA=5.25522 shiftB=11.63227
+ relativePos=(1.79, -1.18, 8.00) 
+cID=30 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=23.53519
+thetaA=ccw_0 thetaB=ccw_180 shiftA=23.53519 shiftB=41.51443
+ relativePos=(0.49, 0.21, 2.00) 
+cID=30 ecceB=3 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.9326153 final thetaB=221.5144
+thetaA=ccw_0 thetaB=ccw_180 shiftA=23.53519 shiftB=41.51443
+ relativePos=(-0.70, -0.62, 2.00) 
+cID=31 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=230.2316
+thetaA=ccw_225 thetaB=ccw_90 shiftA=5.231638 shiftB=2.039605
+ relativePos=(-0.34, -0.41, 2.00) 
+cID=31 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=92.0396
+thetaA=ccw_225 thetaB=ccw_90 shiftA=5.231638 shiftB=2.039605
+ relativePos=(-0.08, 2.33, 5.00) 
+cID=32 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=175.7391
+thetaA=ccw_135 thetaB=ccw_135 shiftA=40.73914 shiftB=7.650384
+ relativePos=(-0.53, 0.04, 2.00) 
+cID=32 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=142.6504
+thetaA=ccw_135 thetaB=ccw_135 shiftA=40.73914 shiftB=7.650384
+ relativePos=(-2.97, 2.26, 8.00) 
+cID=33 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=264.3315
+thetaA=ccw_225 thetaB=ccw_45 shiftA=39.33153 shiftB=21.82777
+ relativePos=(-0.13, -1.33, 5.00) 
+cID=33 ecceB=3 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.9326153 final thetaB=66.82777
+thetaA=ccw_225 thetaB=ccw_45 shiftA=39.33153 shiftB=21.82777
+ relativePos=(0.37, 0.86, 2.00) 
+cID=34 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=352.2564
+thetaA=ccw_315 thetaB=ccw_90 shiftA=37.25645 shiftB=38.00132
+ relativePos=(1.33, -0.18, 5.00) 
+cID=34 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=128.0013
+thetaA=ccw_315 thetaB=ccw_90 shiftA=37.25645 shiftB=38.00132
+ relativePos=(-1.44, 1.84, 5.00) 
+cID=35 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=272.4769
+thetaA=ccw_270 thetaB=ccw_270 shiftA=2.476929 shiftB=16.2823
+ relativePos=(0.06, -1.34, 5.00) 
+cID=35 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=286.2823
+thetaA=ccw_270 thetaB=ccw_270 shiftA=2.476929 shiftB=16.2823
+ relativePos=(1.05, -3.58, 8.00) 
+cID=36 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=200.1301
+thetaA=ccw_180 thetaB=ccw_135 shiftA=20.13006 shiftB=33.80377
+ relativePos=(-2.01, -0.74, 8.00) 
+cID=36 ecceB=3 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.9326153 final thetaB=168.8038
+thetaA=ccw_180 thetaB=ccw_135 shiftA=20.13006 shiftB=33.80377
+ relativePos=(-0.91, 0.18, 2.00) 
+cID=37 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=259.6766
+thetaA=ccw_225 thetaB=ccw_0 shiftA=34.67661 shiftB=12.86949
+ relativePos=(-0.38, -2.11, 8.00) 
+cID=37 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=12.86949
+thetaA=ccw_225 thetaB=ccw_0 shiftA=34.67661 shiftB=12.86949
+ relativePos=(2.27, 0.52, 5.00) 
+cID=38 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=161.1167
+thetaA=ccw_135 thetaB=ccw_45 shiftA=26.11669 shiftB=18.90067
+ relativePos=(-2.03, 0.69, 8.00) 
+cID=38 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=63.90067
+thetaA=ccw_135 thetaB=ccw_45 shiftA=26.11669 shiftB=18.90067
+ relativePos=(1.64, 3.35, 8.00) 
+cID=39 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=307.4484
+thetaA=ccw_270 thetaB=ccw_225 shiftA=37.44837 shiftB=31.44341
+ relativePos=(0.57, -0.74, 2.00) 
+cID=39 ecceB=3 depthB=1 sizeB=1 depthB=2 ecce_radiusB=0.9326153 final thetaB=256.4434
+thetaA=ccw_270 thetaB=ccw_225 shiftA=37.44837 shiftB=31.44341
+ relativePos=(-0.22, -0.91, 2.00) 
+cID=40 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=337.4294
+thetaA=ccw_315 thetaB=ccw_0 shiftA=22.42943 shiftB=25.69783
+ relativePos=(0.86, -0.36, 2.00) 
+cID=40 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=25.69783
+thetaA=ccw_315 thetaB=ccw_0 shiftA=22.42943 shiftB=25.69783
+ relativePos=(2.10, 1.01, 5.00) 
+cID=41 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=344.7784
+thetaA=ccw_315 thetaB=ccw_225 shiftA=29.77835 shiftB=12.69817
+ relativePos=(0.90, -0.24, 2.00) 
+cID=41 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=237.6982
+thetaA=ccw_315 thetaB=ccw_225 shiftA=29.77835 shiftB=12.69817
+ relativePos=(-1.99, -3.15, 8.00) 
+cID=42 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=77.2354
+thetaA=ccw_45 thetaB=ccw_270 shiftA=32.2354 shiftB=16.30714
+ relativePos=(0.52, 2.27, 5.00) 
+cID=42 ecceB=3 depthB=2 sizeB=1 depthB=5 ecce_radiusB=2.331538 final thetaB=286.3071
+thetaA=ccw_45 thetaB=ccw_270 shiftA=32.2354 shiftB=16.30714
+ relativePos=(0.65, -2.24, 5.00) 
+cID=43 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=214.6205
+thetaA=ccw_180 thetaB=ccw_135 shiftA=34.62051 shiftB=8.491322
+ relativePos=(-1.92, -1.32, 5.00) 
+cID=43 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=143.4913
+thetaA=ccw_180 thetaB=ccw_135 shiftA=34.62051 shiftB=8.491322
+ relativePos=(-3.00, 2.22, 8.00) 
+cID=44 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=332.1839
+thetaA=ccw_315 thetaB=ccw_0 shiftA=17.18389 shiftB=33.73672
+ relativePos=(3.30, -1.74, 8.00) 
+cID=44 ecceB=3 depthB=3 sizeB=1 depthB=8 ecce_radiusB=3.730461 final thetaB=33.73672
+thetaA=ccw_315 thetaB=ccw_0 shiftA=17.18389 shiftB=33.73672
+ relativePos=(3.10, 2.07, 8.00) 
+cID=45 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=202.8816
+thetaA=ccw_180 thetaB=ccw_270 shiftA=22.88164 shiftB=18.94639
+ relativePos=(-0.16, -0.07, 2.00) 
+cID=45 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=288.9464
+thetaA=ccw_180 thetaB=ccw_270 shiftA=22.88164 shiftB=18.94639
+ relativePos=(0.06, -0.17, 2.00) 
+cID=46 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=146.8101
+thetaA=ccw_135 thetaB=ccw_315 shiftA=11.81007 shiftB=0.6833142
+ relativePos=(-0.15, 0.10, 2.00) 
+cID=46 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=315.6833
+thetaA=ccw_135 thetaB=ccw_315 shiftA=11.81007 shiftB=0.6833142
+ relativePos=(0.31, -0.31, 5.00) 
+cID=47 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=21.16931
+thetaA=ccw_0 thetaB=ccw_135 shiftA=21.16931 shiftB=34.09843
+ relativePos=(0.16, 0.06, 2.00) 
+cID=47 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=169.0984
+thetaA=ccw_0 thetaB=ccw_135 shiftA=21.16931 shiftB=34.09843
+ relativePos=(-0.69, 0.13, 8.00) 
+cID=48 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=247.5253
+thetaA=ccw_225 thetaB=ccw_90 shiftA=22.52532 shiftB=8.642673
+ relativePos=(-0.17, -0.40, 5.00) 
+cID=48 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=98.64267
+thetaA=ccw_225 thetaB=ccw_90 shiftA=22.52532 shiftB=8.642673
+ relativePos=(-0.03, 0.17, 2.00) 
+cID=49 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=129.9935
+thetaA=ccw_90 thetaB=ccw_0 shiftA=39.99349 shiftB=34.2461
+ relativePos=(-0.28, 0.34, 5.00) 
+cID=49 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=34.2461
+thetaA=ccw_90 thetaB=ccw_0 shiftA=39.99349 shiftB=34.2461
+ relativePos=(0.36, 0.25, 5.00) 
+cID=50 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=2.715753
+thetaA=ccw_0 thetaB=ccw_135 shiftA=2.715753 shiftB=34.19019
+ relativePos=(0.44, 0.02, 5.00) 
+cID=50 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=169.1902
+thetaA=ccw_0 thetaB=ccw_135 shiftA=2.715753 shiftB=34.19019
+ relativePos=(-0.69, 0.13, 8.00) 
+cID=51 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=105.0203
+thetaA=ccw_90 thetaB=ccw_270 shiftA=15.02034 shiftB=6.582742
+ relativePos=(-0.18, 0.68, 8.00) 
+cID=51 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=276.5827
+thetaA=ccw_90 thetaB=ccw_270 shiftA=15.02034 shiftB=6.582742
+ relativePos=(0.02, -0.17, 2.00) 
+cID=52 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=5.674256
+thetaA=ccw_0 thetaB=ccw_90 shiftA=5.674256 shiftB=25.78377
+ relativePos=(0.70, 0.07, 8.00) 
+cID=52 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=115.7838
+thetaA=ccw_0 thetaB=ccw_90 shiftA=5.674256 shiftB=25.78377
+ relativePos=(-0.19, 0.39, 5.00) 
+cID=53 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=230.1061
+thetaA=ccw_225 thetaB=ccw_45 shiftA=5.106121 shiftB=38.96534
+ relativePos=(-0.45, -0.54, 8.00) 
+cID=53 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=83.96533
+thetaA=ccw_225 thetaB=ccw_45 shiftA=5.106121 shiftB=38.96534
+ relativePos=(0.07, 0.70, 8.00) 
+cID=54 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=65.86112
+thetaA=ccw_45 thetaB=ccw_135 shiftA=20.86112 shiftB=4.711252
+ relativePos=(0.07, 0.16, 2.00) 
+cID=54 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=139.7113
+thetaA=ccw_45 thetaB=ccw_135 shiftA=20.86112 shiftB=4.711252
+ relativePos=(-0.41, 0.35, 2.00) 
+cID=55 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=41.1219
+thetaA=ccw_0 thetaB=ccw_135 shiftA=41.1219 shiftB=4.321167
+ relativePos=(0.13, 0.12, 2.00) 
+cID=55 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=139.3212
+thetaA=ccw_0 thetaB=ccw_135 shiftA=41.1219 shiftB=4.321167
+ relativePos=(-1.02, 0.87, 5.00) 
+cID=56 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=185.1408
+thetaA=ccw_180 thetaB=ccw_90 shiftA=5.140824 shiftB=23.70028
+ relativePos=(-0.17, -0.02, 2.00) 
+cID=56 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=113.7003
+thetaA=ccw_180 thetaB=ccw_90 shiftA=5.140824 shiftB=23.70028
+ relativePos=(-0.86, 1.96, 8.00) 
+cID=57 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=185.2795
+thetaA=ccw_180 thetaB=ccw_225 shiftA=5.279515 shiftB=37.08823
+ relativePos=(-0.44, -0.04, 5.00) 
+cID=57 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=262.0882
+thetaA=ccw_180 thetaB=ccw_225 shiftA=5.279515 shiftB=37.08823
+ relativePos=(-0.07, -0.53, 2.00) 
+cID=58 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=60.18542
+thetaA=ccw_45 thetaB=ccw_45 shiftA=15.18542 shiftB=42.39979
+ relativePos=(0.22, 0.38, 5.00) 
+cID=58 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=87.39979
+thetaA=ccw_45 thetaB=ccw_45 shiftA=15.18542 shiftB=42.39979
+ relativePos=(0.06, 1.34, 5.00) 
+cID=59 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=153.685
+thetaA=ccw_135 thetaB=ccw_270 shiftA=18.68501 shiftB=33.28003
+ relativePos=(-0.39, 0.19, 5.00) 
+cID=59 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=303.28
+thetaA=ccw_135 thetaB=ccw_270 shiftA=18.68501 shiftB=33.28003
+ relativePos=(1.18, -1.79, 8.00) 
+cID=60 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=21.88069
+thetaA=ccw_0 thetaB=ccw_90 shiftA=21.88069 shiftB=39.23053
+ relativePos=(0.65, 0.26, 8.00) 
+cID=60 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=129.2305
+thetaA=ccw_0 thetaB=ccw_90 shiftA=21.88069 shiftB=39.23053
+ relativePos=(-0.34, 0.42, 2.00) 
+cID=61 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=161.6752
+thetaA=ccw_135 thetaB=ccw_225 shiftA=26.67525 shiftB=22.16751
+ relativePos=(-0.66, 0.22, 8.00) 
+cID=61 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=247.1675
+thetaA=ccw_135 thetaB=ccw_225 shiftA=26.67525 shiftB=22.16751
+ relativePos=(-0.52, -1.23, 5.00) 
+cID=62 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=168.4626
+thetaA=ccw_135 thetaB=ccw_180 shiftA=33.4626 shiftB=9.816317
+ relativePos=(-0.69, 0.14, 8.00) 
+cID=62 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=189.8163
+thetaA=ccw_135 thetaB=ccw_180 shiftA=33.4626 shiftB=9.816317
+ relativePos=(-2.11, -0.37, 8.00) 
+cID=63 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=92.31145
+thetaA=ccw_90 thetaB=ccw_270 shiftA=2.311453 shiftB=35.75865
+ relativePos=(-0.01, 0.17, 2.00) 
+cID=63 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=305.7586
+thetaA=ccw_90 thetaB=ccw_270 shiftA=2.311453 shiftB=35.75865
+ relativePos=(0.54, -0.76, 2.00) 
+cID=64 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=222.0059
+thetaA=ccw_180 thetaB=ccw_0 shiftA=42.00589 shiftB=41.0655
+ relativePos=(-0.13, -0.12, 2.00) 
+cID=64 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=41.0655
+thetaA=ccw_180 thetaB=ccw_0 shiftA=42.00589 shiftB=41.0655
+ relativePos=(1.76, 1.53, 5.00) 
+cID=65 ecceA=1 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.1749773 final thetaA=212.8999
+thetaA=ccw_180 thetaB=ccw_270 shiftA=32.89988 shiftB=30.40125
+ relativePos=(-0.15, -0.10, 2.00) 
+cID=65 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=300.4012
+thetaA=ccw_180 thetaB=ccw_270 shiftA=32.89988 shiftB=30.40125
+ relativePos=(1.89, -3.22, 8.00) 
+cID=66 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=96.17625
+thetaA=ccw_90 thetaB=ccw_270 shiftA=6.176258 shiftB=36.54253
+ relativePos=(-0.05, 0.43, 5.00) 
+cID=66 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=306.5425
+thetaA=ccw_90 thetaB=ccw_270 shiftA=6.176258 shiftB=36.54253
+ relativePos=(0.56, -0.75, 2.00) 
+cID=67 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=101.1391
+thetaA=ccw_90 thetaB=ccw_225 shiftA=11.13908 shiftB=19.71721
+ relativePos=(-0.08, 0.43, 5.00) 
+cID=67 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=244.7172
+thetaA=ccw_90 thetaB=ccw_225 shiftA=11.13908 shiftB=19.71721
+ relativePos=(-1.00, -2.11, 5.00) 
+cID=68 ecceA=1 depthA=2 sizeA=1 depthA=5 ecce_radiusA=0.4374433 final thetaA=254.1157
+thetaA=ccw_225 thetaB=ccw_180 shiftA=29.11566 shiftB=1.901219
+ relativePos=(-0.12, -0.42, 5.00) 
+cID=68 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=181.9012
+thetaA=ccw_225 thetaB=ccw_180 shiftA=29.11566 shiftB=1.901219
+ relativePos=(-3.73, -0.12, 8.00) 
+cID=69 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=86.8026
+thetaA=ccw_45 thetaB=ccw_180 shiftA=41.8026 shiftB=2.539103
+ relativePos=(0.04, 0.70, 8.00) 
+cID=69 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=182.5391
+thetaA=ccw_45 thetaB=ccw_180 shiftA=41.8026 shiftB=2.539103
+ relativePos=(-0.93, -0.04, 2.00) 
+cID=70 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=30.35652
+thetaA=ccw_0 thetaB=ccw_0 shiftA=30.35652 shiftB=33.78631
+ relativePos=(0.60, 0.35, 8.00) 
+cID=70 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=33.78631
+thetaA=ccw_0 thetaB=ccw_0 shiftA=30.35652 shiftB=33.78631
+ relativePos=(1.94, 1.30, 5.00) 
+cID=71 ecceA=1 depthA=3 sizeA=1 depthA=8 ecce_radiusA=0.6999093 final thetaA=321.4936
+thetaA=ccw_315 thetaB=ccw_0 shiftA=6.493569 shiftB=13.1076
+ relativePos=(0.55, -0.44, 8.00) 
+cID=71 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=13.1076
+thetaA=ccw_315 thetaB=ccw_0 shiftA=6.493569 shiftB=13.1076
+ relativePos=(3.63, 0.85, 8.00) 
+cID=72 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=250.8733
+thetaA=ccw_225 thetaB=ccw_90 shiftA=25.87334 shiftB=21.25745
+ relativePos=(-0.18, -0.51, 2.00) 
+cID=72 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=111.2575
+thetaA=ccw_225 thetaB=ccw_90 shiftA=25.87334 shiftB=21.25745
+ relativePos=(-0.06, 0.16, 2.00) 
+cID=73 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=160.5112
+thetaA=ccw_135 thetaB=ccw_45 shiftA=25.51116 shiftB=16.30568
+ relativePos=(-0.51, 0.18, 2.00) 
+cID=73 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=61.30568
+thetaA=ccw_135 thetaB=ccw_45 shiftA=25.51116 shiftB=16.30568
+ relativePos=(0.21, 0.38, 5.00) 
+cID=74 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=203.2689
+thetaA=ccw_180 thetaB=ccw_315 shiftA=23.26894 shiftB=11.8258
+ relativePos=(-0.49, -0.21, 2.00) 
+cID=74 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=326.8258
+thetaA=ccw_180 thetaB=ccw_315 shiftA=23.26894 shiftB=11.8258
+ relativePos=(0.59, -0.38, 8.00) 
+cID=75 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=101.8776
+thetaA=ccw_90 thetaB=ccw_45 shiftA=11.87756 shiftB=38.91801
+ relativePos=(-0.28, 1.31, 5.00) 
+cID=75 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=83.91801
+thetaA=ccw_90 thetaB=ccw_45 shiftA=11.87756 shiftB=38.91801
+ relativePos=(0.02, 0.17, 2.00) 
+cID=76 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=110.8929
+thetaA=ccw_90 thetaB=ccw_45 shiftA=20.89292 shiftB=43.8771
+ relativePos=(-0.48, 1.25, 5.00) 
+cID=76 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=88.8771
+thetaA=ccw_90 thetaB=ccw_45 shiftA=20.89292 shiftB=43.8771
+ relativePos=(0.01, 0.44, 5.00) 
+cID=77 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=42.24159
+thetaA=ccw_0 thetaB=ccw_0 shiftA=42.24159 shiftB=13.03114
+ relativePos=(0.99, 0.90, 5.00) 
+cID=77 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=13.03114
+thetaA=ccw_0 thetaB=ccw_0 shiftA=42.24159 shiftB=13.03114
+ relativePos=(0.68, 0.16, 8.00) 
+cID=78 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=324.3535
+thetaA=ccw_315 thetaB=ccw_270 shiftA=9.353491 shiftB=22.9503
+ relativePos=(1.74, -1.25, 8.00) 
+cID=78 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=292.9503
+thetaA=ccw_315 thetaB=ccw_270 shiftA=9.353491 shiftB=22.9503
+ relativePos=(0.07, -0.16, 2.00) 
+cID=79 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=39.98132
+thetaA=ccw_0 thetaB=ccw_180 shiftA=39.98132 shiftB=17.45954
+ relativePos=(1.64, 1.38, 8.00) 
+cID=79 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=197.4595
+thetaA=ccw_0 thetaB=ccw_180 shiftA=39.98132 shiftB=17.45954
+ relativePos=(-0.42, -0.13, 5.00) 
+cID=80 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=188.2247
+thetaA=ccw_180 thetaB=ccw_90 shiftA=8.224742 shiftB=34.09855
+ relativePos=(-2.12, -0.31, 8.00) 
+cID=80 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=124.0986
+thetaA=ccw_180 thetaB=ccw_90 shiftA=8.224742 shiftB=34.09855
+ relativePos=(-0.39, 0.58, 8.00) 
+cID=81 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=293.5575
+thetaA=ccw_270 thetaB=ccw_180 shiftA=23.55749 shiftB=9.283576
+ relativePos=(0.21, -0.49, 2.00) 
+cID=81 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=189.2836
+thetaA=ccw_270 thetaB=ccw_180 shiftA=23.55749 shiftB=9.283576
+ relativePos=(-0.53, -0.09, 2.00) 
+cID=82 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=326.6295
+thetaA=ccw_315 thetaB=ccw_90 shiftA=11.62945 shiftB=43.44322
+ relativePos=(0.45, -0.29, 2.00) 
+cID=82 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=133.4432
+thetaA=ccw_315 thetaB=ccw_90 shiftA=11.62945 shiftB=43.44322
+ relativePos=(-0.92, 0.97, 5.00) 
+cID=83 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=355.2411
+thetaA=ccw_315 thetaB=ccw_225 shiftA=40.24113 shiftB=33.61425
+ relativePos=(0.53, -0.04, 2.00) 
+cID=83 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=258.6143
+thetaA=ccw_315 thetaB=ccw_225 shiftA=40.24113 shiftB=33.61425
+ relativePos=(-0.42, -2.10, 8.00) 
+cID=84 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=111.3622
+thetaA=ccw_90 thetaB=ccw_45 shiftA=21.36218 shiftB=27.41386
+ relativePos=(-0.49, 1.25, 5.00) 
+cID=84 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=72.41386
+thetaA=ccw_90 thetaB=ccw_45 shiftA=21.36218 shiftB=27.41386
+ relativePos=(0.16, 0.51, 2.00) 
+cID=85 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=100.9148
+thetaA=ccw_90 thetaB=ccw_315 shiftA=10.91479 shiftB=15.50375
+ relativePos=(-0.25, 1.32, 5.00) 
+cID=85 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=330.5038
+thetaA=ccw_90 thetaB=ccw_315 shiftA=10.91479 shiftB=15.50375
+ relativePos=(1.17, -0.66, 5.00) 
+cID=86 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=10.0213
+thetaA=ccw_0 thetaB=ccw_90 shiftA=10.0213 shiftB=11.59631
+ relativePos=(1.32, 0.23, 5.00) 
+cID=86 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=101.5963
+thetaA=ccw_0 thetaB=ccw_90 shiftA=10.0213 shiftB=11.59631
+ relativePos=(-0.43, 2.10, 8.00) 
+cID=87 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=205.3177
+thetaA=ccw_180 thetaB=ccw_45 shiftA=25.31767 shiftB=20.23753
+ relativePos=(-1.94, -0.92, 8.00) 
+cID=87 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=65.23753
+thetaA=ccw_180 thetaB=ccw_45 shiftA=25.31767 shiftB=20.23753
+ relativePos=(0.22, 0.49, 2.00) 
+cID=88 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=21.15624
+thetaA=ccw_0 thetaB=ccw_315 shiftA=21.15624 shiftB=37.56478
+ relativePos=(2.00, 0.77, 8.00) 
+cID=88 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=352.5648
+thetaA=ccw_0 thetaB=ccw_315 shiftA=21.15624 shiftB=37.56478
+ relativePos=(1.33, -0.17, 5.00) 
+cID=89 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=10.35247
+thetaA=ccw_0 thetaB=ccw_45 shiftA=10.35247 shiftB=40.52946
+ relativePos=(2.11, 0.39, 8.00) 
+cID=89 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=85.52946
+thetaA=ccw_0 thetaB=ccw_45 shiftA=10.35247 shiftB=40.52946
+ relativePos=(0.17, 2.14, 8.00) 
+cID=90 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=106.094
+thetaA=ccw_90 thetaB=ccw_0 shiftA=16.094 shiftB=11.76405
+ relativePos=(-0.15, 0.51, 2.00) 
+cID=90 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=11.76405
+thetaA=ccw_90 thetaB=ccw_0 shiftA=16.094 shiftB=11.76405
+ relativePos=(0.91, 0.19, 2.00) 
+cID=91 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=347.8566
+thetaA=ccw_315 thetaB=ccw_225 shiftA=32.85664 shiftB=41.03732
+ relativePos=(0.52, -0.11, 2.00) 
+cID=91 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=266.0373
+thetaA=ccw_315 thetaB=ccw_225 shiftA=32.85664 shiftB=41.03732
+ relativePos=(-0.16, -2.33, 5.00) 
+cID=92 ecceA=2 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.5358984 final thetaA=63.94972
+thetaA=ccw_45 thetaB=ccw_315 shiftA=18.94972 shiftB=0.4616994
+ relativePos=(0.24, 0.48, 2.00) 
+cID=92 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=315.4617
+thetaA=ccw_45 thetaB=ccw_315 shiftA=18.94972 shiftB=0.4616994
+ relativePos=(2.66, -2.62, 8.00) 
+cID=93 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=108.9783
+thetaA=ccw_90 thetaB=ccw_90 shiftA=18.97829 shiftB=38.68537
+ relativePos=(-0.44, 1.27, 5.00) 
+cID=93 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=128.6854
+thetaA=ccw_90 thetaB=ccw_90 shiftA=18.97829 shiftB=38.68537
+ relativePos=(-0.58, 0.73, 2.00) 
+cID=94 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=37.18603
+thetaA=ccw_0 thetaB=ccw_270 shiftA=37.18603 shiftB=11.5138
+ relativePos=(1.07, 0.81, 5.00) 
+cID=94 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=281.5138
+thetaA=ccw_0 thetaB=ccw_270 shiftA=37.18603 shiftB=11.5138
+ relativePos=(0.47, -2.28, 5.00) 
+cID=95 ecceA=2 depthA=2 sizeA=1 depthA=5 ecce_radiusA=1.339746 final thetaA=40.29848
+thetaA=ccw_0 thetaB=ccw_180 shiftA=40.29848 shiftB=38.69002
+ relativePos=(1.02, 0.87, 5.00) 
+cID=95 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=218.69
+thetaA=ccw_0 thetaB=ccw_180 shiftA=40.29848 shiftB=38.69002
+ relativePos=(-2.91, -2.33, 8.00) 
+cID=96 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=53.26562
+thetaA=ccw_45 thetaB=ccw_135 shiftA=8.265618 shiftB=39.28895
+ relativePos=(1.28, 1.72, 8.00) 
+cID=96 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=174.2889
+thetaA=ccw_45 thetaB=ccw_135 shiftA=8.265618 shiftB=39.28895
+ relativePos=(-0.93, 0.09, 2.00) 
+cID=97 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=221.1446
+thetaA=ccw_180 thetaB=ccw_90 shiftA=41.14458 shiftB=41.55447
+ relativePos=(-1.61, -1.41, 8.00) 
+cID=97 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=131.5545
+thetaA=ccw_180 thetaB=ccw_90 shiftA=41.14458 shiftB=41.55447
+ relativePos=(-1.55, 1.74, 5.00) 
+cID=98 ecceA=2 depthA=3 sizeA=1 depthA=8 ecce_radiusA=2.143594 final thetaA=98.45895
+thetaA=ccw_90 thetaB=ccw_0 shiftA=8.458947 shiftB=12.20027
+ relativePos=(-0.32, 2.12, 8.00) 
+cID=98 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=12.20027
+thetaA=ccw_90 thetaB=ccw_0 shiftA=8.458947 shiftB=12.20027
+ relativePos=(3.65, 0.79, 8.00) 
+cID=99 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=278.9882
+thetaA=ccw_270 thetaB=ccw_90 shiftA=8.988216 shiftB=35.4282
+ relativePos=(0.15, -0.92, 2.00) 
+cID=99 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=125.4282
+thetaA=ccw_270 thetaB=ccw_90 shiftA=8.988216 shiftB=35.4282
+ relativePos=(-0.10, 0.14, 2.00) 
+cID=100 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=219.6546
+thetaA=ccw_180 thetaB=ccw_0 shiftA=39.65459 shiftB=42.50687
+ relativePos=(-0.72, -0.60, 2.00) 
+cID=100 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=42.50687
+thetaA=ccw_180 thetaB=ccw_0 shiftA=39.65459 shiftB=42.50687
+ relativePos=(0.32, 0.30, 5.00) 
+cID=101 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=126.5463
+thetaA=ccw_90 thetaB=ccw_45 shiftA=36.54633 shiftB=14.45171
+ relativePos=(-0.56, 0.75, 2.00) 
+cID=101 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=59.45171
+thetaA=ccw_90 thetaB=ccw_45 shiftA=36.54633 shiftB=14.45171
+ relativePos=(0.36, 0.60, 8.00) 
+cID=102 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=44.14418
+thetaA=ccw_0 thetaB=ccw_45 shiftA=44.14418 shiftB=10.83782
+ relativePos=(1.67, 1.62, 5.00) 
+cID=102 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=55.83782
+thetaA=ccw_0 thetaB=ccw_45 shiftA=44.14418 shiftB=10.83782
+ relativePos=(0.10, 0.14, 2.00) 
+cID=103 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=74.61968
+thetaA=ccw_45 thetaB=ccw_270 shiftA=29.61968 shiftB=12.53655
+ relativePos=(0.62, 2.25, 5.00) 
+cID=103 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=282.5366
+thetaA=ccw_45 thetaB=ccw_270 shiftA=29.61968 shiftB=12.53655
+ relativePos=(0.09, -0.43, 5.00) 
+cID=104 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=69.11297
+thetaA=ccw_45 thetaB=ccw_135 shiftA=24.11297 shiftB=4.833056
+ relativePos=(0.83, 2.18, 5.00) 
+cID=104 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=139.8331
+thetaA=ccw_45 thetaB=ccw_135 shiftA=24.11297 shiftB=4.833056
+ relativePos=(-0.53, 0.45, 8.00) 
+cID=105 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=334.4731
+thetaA=ccw_315 thetaB=ccw_180 shiftA=19.47304 shiftB=27.70983
+ relativePos=(3.37, -1.61, 8.00) 
+cID=105 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=207.7098
+thetaA=ccw_315 thetaB=ccw_180 shiftA=19.47304 shiftB=27.70983
+ relativePos=(-0.15, -0.08, 2.00) 
+cID=106 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=81.13606
+thetaA=ccw_45 thetaB=ccw_45 shiftA=36.13607 shiftB=15.16217
+ relativePos=(0.57, 3.69, 8.00) 
+cID=106 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=60.16217
+thetaA=ccw_45 thetaB=ccw_45 shiftA=36.13607 shiftB=15.16217
+ relativePos=(0.22, 0.38, 5.00) 
+cID=107 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=302.2135
+thetaA=ccw_270 thetaB=ccw_225 shiftA=32.21348 shiftB=4.010063
+ relativePos=(1.99, -3.16, 8.00) 
+cID=107 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=229.0101
+thetaA=ccw_270 thetaB=ccw_225 shiftA=32.21348 shiftB=4.010063
+ relativePos=(-0.46, -0.53, 8.00) 
+cID=108 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=86.09093
+thetaA=ccw_45 thetaB=ccw_225 shiftA=41.09093 shiftB=15.91489
+ relativePos=(0.06, 0.93, 2.00) 
+cID=108 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=240.9149
+thetaA=ccw_45 thetaB=ccw_225 shiftA=41.09093 shiftB=15.91489
+ relativePos=(-0.26, -0.47, 2.00) 
+cID=109 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=29.63419
+thetaA=ccw_0 thetaB=ccw_90 shiftA=29.63419 shiftB=10.78359
+ relativePos=(0.81, 0.46, 2.00) 
+cID=109 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=100.7836
+thetaA=ccw_0 thetaB=ccw_90 shiftA=29.63419 shiftB=10.78359
+ relativePos=(-0.25, 1.32, 5.00) 
+cID=110 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=67.00616
+thetaA=ccw_45 thetaB=ccw_0 shiftA=22.00616 shiftB=11.19481
+ relativePos=(0.36, 0.86, 2.00) 
+cID=110 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=11.19481
+thetaA=ccw_45 thetaB=ccw_0 shiftA=22.00616 shiftB=11.19481
+ relativePos=(2.10, 0.42, 8.00) 
+cID=111 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=301.1925
+thetaA=ccw_270 thetaB=ccw_90 shiftA=31.19254 shiftB=17.17452
+ relativePos=(1.21, -1.99, 5.00) 
+cID=111 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=107.1745
+thetaA=ccw_270 thetaB=ccw_90 shiftA=31.19254 shiftB=17.17452
+ relativePos=(-0.16, 0.51, 2.00) 
+cID=112 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=172.2411
+thetaA=ccw_135 thetaB=ccw_45 shiftA=37.2411 shiftB=35.32419
+ relativePos=(-2.31, 0.31, 5.00) 
+cID=112 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=80.32419
+thetaA=ccw_135 thetaB=ccw_45 shiftA=37.2411 shiftB=35.32419
+ relativePos=(0.23, 1.32, 5.00) 
+cID=113 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=77.01242
+thetaA=ccw_45 thetaB=ccw_135 shiftA=32.01242 shiftB=25.96364
+ relativePos=(0.52, 2.27, 5.00) 
+cID=113 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=160.9636
+thetaA=ccw_45 thetaB=ccw_135 shiftA=32.01242 shiftB=25.96364
+ relativePos=(-2.03, 0.70, 8.00) 
+cID=114 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=35.66014
+thetaA=ccw_0 thetaB=ccw_45 shiftA=35.66014 shiftB=7.189715
+ relativePos=(3.03, 2.17, 8.00) 
+cID=114 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=52.18972
+thetaA=ccw_0 thetaB=ccw_45 shiftA=35.66014 shiftB=7.189715
+ relativePos=(0.33, 0.42, 2.00) 
+cID=115 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=264.4531
+thetaA=ccw_225 thetaB=ccw_225 shiftA=39.45311 shiftB=39.59835
+ relativePos=(-0.36, -3.71, 8.00) 
+cID=115 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=264.5984
+thetaA=ccw_225 thetaB=ccw_225 shiftA=39.45311 shiftB=39.59835
+ relativePos=(-0.13, -1.33, 5.00) 
+cID=116 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=260.3432
+thetaA=ccw_225 thetaB=ccw_315 shiftA=35.34324 shiftB=4.696054
+ relativePos=(-0.63, -3.68, 8.00) 
+cID=116 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=319.696
+thetaA=ccw_225 thetaB=ccw_315 shiftA=35.34324 shiftB=4.696054
+ relativePos=(1.63, -1.39, 8.00) 
+cID=117 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=286.9774
+thetaA=ccw_270 thetaB=ccw_0 shiftA=16.97743 shiftB=23.22102
+ relativePos=(0.27, -0.89, 2.00) 
+cID=117 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=23.22102
+thetaA=ccw_270 thetaB=ccw_0 shiftA=16.97743 shiftB=23.22102
+ relativePos=(0.86, 0.37, 2.00) 
+cID=118 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=223.2136
+thetaA=ccw_180 thetaB=ccw_45 shiftA=43.21363 shiftB=14.42744
+ relativePos=(-0.68, -0.64, 2.00) 
+cID=118 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=59.42744
+thetaA=ccw_180 thetaB=ccw_45 shiftA=43.21363 shiftB=14.42744
+ relativePos=(1.19, 2.01, 5.00) 
+cID=119 ecceA=3 depthA=1 sizeA=1 depthA=2 ecce_radiusA=0.9326153 final thetaA=57.24956
+thetaA=ccw_45 thetaB=ccw_225 shiftA=12.24956 shiftB=38.04271
+ relativePos=(0.50, 0.78, 2.00) 
+cID=119 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=263.0427
+thetaA=ccw_45 thetaB=ccw_225 shiftA=12.24956 shiftB=38.04271
+ relativePos=(-0.45, -3.70, 8.00) 
+cID=120 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=266.9975
+thetaA=ccw_225 thetaB=ccw_315 shiftA=41.99747 shiftB=13.78356
+ relativePos=(-0.12, -2.33, 5.00) 
+cID=120 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=328.7836
+thetaA=ccw_225 thetaB=ccw_315 shiftA=41.99747 shiftB=13.78356
+ relativePos=(0.80, -0.48, 2.00) 
+cID=121 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=333.2344
+thetaA=ccw_315 thetaB=ccw_270 shiftA=18.23437 shiftB=7.959573
+ relativePos=(2.08, -1.05, 5.00) 
+cID=121 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=277.9596
+thetaA=ccw_315 thetaB=ccw_270 shiftA=18.23437 shiftB=7.959573
+ relativePos=(0.32, -2.31, 5.00) 
+cID=122 ecceA=3 depthA=2 sizeA=1 depthA=5 ecce_radiusA=2.331538 final thetaA=5.575497
+thetaA=ccw_0 thetaB=ccw_180 shiftA=5.575497 shiftB=10.42996
+ relativePos=(2.32, 0.23, 5.00) 
+cID=122 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=190.43
+thetaA=ccw_0 thetaB=ccw_180 shiftA=5.575497 shiftB=10.42996
+ relativePos=(-3.67, -0.68, 8.00) 
+cID=123 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=136.6975
+thetaA=ccw_135 thetaB=ccw_225 shiftA=1.697543 shiftB=44.10327
+ relativePos=(-2.71, 2.56, 8.00) 
+cID=123 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=269.1033
+thetaA=ccw_135 thetaB=ccw_225 shiftA=1.697543 shiftB=44.10327
+ relativePos=(-0.01, -0.93, 2.00) 
+cID=124 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=182.0298
+thetaA=ccw_180 thetaB=ccw_0 shiftA=2.029848 shiftB=15.92458
+ relativePos=(-3.73, -0.13, 8.00) 
+cID=124 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=15.92458
+thetaA=ccw_180 thetaB=ccw_0 shiftA=2.029848 shiftB=15.92458
+ relativePos=(2.24, 0.64, 5.00) 
+cID=125 ecceA=3 depthA=3 sizeA=1 depthA=8 ecce_radiusA=3.730461 final thetaA=89.69299
+thetaA=ccw_45 thetaB=ccw_45 shiftA=44.69299 shiftB=25.5599
+ relativePos=(0.02, 3.73, 8.00) 
+cID=125 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=70.5599
+thetaA=ccw_45 thetaB=ccw_45 shiftA=44.69299 shiftB=25.5599
+ relativePos=(1.24, 3.52, 8.00) 
+cID=126 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=358.891
+thetaA=ccw_315 thetaB=ccw_180 shiftA=43.89101 shiftB=26.80205
+ relativePos=(0.17, 0.00, 2.00) 
+cID=126 ecceB=1 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.1749773 final thetaB=206.802
+thetaA=ccw_315 thetaB=ccw_180 shiftA=43.89101 shiftB=26.80205
+ relativePos=(-0.16, -0.08, 2.00) 
+cID=127 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=225.1784
+thetaA=ccw_225 thetaB=ccw_45 shiftA=0.1783723 shiftB=19.83193
+ relativePos=(-0.12, -0.12, 2.00) 
+cID=127 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=64.83193
+thetaA=ccw_225 thetaB=ccw_45 shiftA=0.1783723 shiftB=19.83193
+ relativePos=(0.19, 0.40, 5.00) 
+cID=128 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=191.5289
+thetaA=ccw_180 thetaB=ccw_315 shiftA=11.52893 shiftB=15.44038
+ relativePos=(-0.17, -0.03, 2.00) 
+cID=128 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=330.4404
+thetaA=ccw_180 thetaB=ccw_315 shiftA=11.52893 shiftB=15.44038
+ relativePos=(0.61, -0.35, 8.00) 
+cID=129 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=271.8104
+thetaA=ccw_270 thetaB=ccw_90 shiftA=1.810389 shiftB=43.20425
+ relativePos=(0.01, -0.44, 5.00) 
+cID=129 ecceB=1 depthB=2 sizeB=2 depthB=5 ecce_radiusB=0.4374433 final thetaB=133.2043
+thetaA=ccw_270 thetaB=ccw_90 shiftA=1.810389 shiftB=43.20425
+ relativePos=(-0.30, 0.32, 5.00) 
+cID=130 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=96.21664
+thetaA=ccw_90 thetaB=ccw_315 shiftA=6.216641 shiftB=26.19358
+ relativePos=(-0.05, 0.43, 5.00) 
+cID=130 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=341.1936
+thetaA=ccw_90 thetaB=ccw_315 shiftA=6.216641 shiftB=26.19358
+ relativePos=(0.66, -0.23, 8.00) 
+cID=131 ecceA=1 depthA=3 sizeA=2 depthA=8 ecce_radiusA=0.6999093 final thetaA=244.871
+thetaA=ccw_225 thetaB=ccw_90 shiftA=19.87098 shiftB=13.20061
+ relativePos=(-0.30, -0.63, 8.00) 
+cID=131 ecceB=1 depthB=3 sizeB=2 depthB=8 ecce_radiusB=0.6999093 final thetaB=103.2006
+thetaA=ccw_225 thetaB=ccw_90 shiftA=19.87098 shiftB=13.20061
+ relativePos=(-0.16, 0.68, 8.00) 
+cID=132 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=78.14572
+thetaA=ccw_45 thetaB=ccw_180 shiftA=33.14573 shiftB=36.41565
+ relativePos=(0.04, 0.17, 2.00) 
+cID=132 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=216.4156
+thetaA=ccw_45 thetaB=ccw_180 shiftA=33.14573 shiftB=36.41565
+ relativePos=(-0.43, -0.32, 2.00) 
+cID=133 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=309.3711
+thetaA=ccw_270 thetaB=ccw_90 shiftA=39.37108 shiftB=32.76207
+ relativePos=(0.11, -0.14, 2.00) 
+cID=133 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=122.7621
+thetaA=ccw_270 thetaB=ccw_90 shiftA=39.37108 shiftB=32.76207
+ relativePos=(-0.73, 1.13, 5.00) 
+cID=134 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=334.8945
+thetaA=ccw_315 thetaB=ccw_45 shiftA=19.89454 shiftB=5.739058
+ relativePos=(0.16, -0.07, 2.00) 
+cID=134 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=50.73906
+thetaA=ccw_315 thetaB=ccw_45 shiftA=19.89454 shiftB=5.739058
+ relativePos=(1.36, 1.66, 8.00) 
+cID=135 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=328.6328
+thetaA=ccw_315 thetaB=ccw_90 shiftA=13.6328 shiftB=25.76349
+ relativePos=(0.37, -0.23, 5.00) 
+cID=135 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=115.7635
+thetaA=ccw_315 thetaB=ccw_90 shiftA=13.6328 shiftB=25.76349
+ relativePos=(-0.23, 0.48, 2.00) 
+cID=136 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=21.75764
+thetaA=ccw_0 thetaB=ccw_225 shiftA=21.75764 shiftB=40.47408
+ relativePos=(0.41, 0.16, 5.00) 
+cID=136 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=265.4741
+thetaA=ccw_0 thetaB=ccw_225 shiftA=21.75764 shiftB=40.47408
+ relativePos=(-0.11, -1.34, 5.00) 
+cID=137 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=138.6371
+thetaA=ccw_135 thetaB=ccw_135 shiftA=3.637075 shiftB=10.43123
+ relativePos=(-0.33, 0.29, 5.00) 
+cID=137 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=145.4312
+thetaA=ccw_135 thetaB=ccw_135 shiftA=3.637075 shiftB=10.43123
+ relativePos=(-1.77, 1.22, 8.00) 
+cID=138 ecceA=1 depthA=3 sizeA=2 depthA=8 ecce_radiusA=0.6999093 final thetaA=342.4496
+thetaA=ccw_315 thetaB=ccw_270 shiftA=27.44962 shiftB=7.312415
+ relativePos=(0.67, -0.21, 8.00) 
+cID=138 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=277.3124
+thetaA=ccw_315 thetaB=ccw_270 shiftA=27.44962 shiftB=7.312415
+ relativePos=(0.07, -0.53, 2.00) 
+cID=139 ecceA=1 depthA=3 sizeA=2 depthA=8 ecce_radiusA=0.6999093 final thetaA=21.51023
+thetaA=ccw_0 thetaB=ccw_45 shiftA=21.51023 shiftB=27.31888
+ relativePos=(0.65, 0.26, 8.00) 
+cID=139 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=72.31888
+thetaA=ccw_0 thetaB=ccw_45 shiftA=21.51023 shiftB=27.31888
+ relativePos=(0.41, 1.28, 5.00) 
+cID=140 ecceA=1 depthA=3 sizeA=2 depthA=8 ecce_radiusA=0.6999093 final thetaA=135.1007
+thetaA=ccw_135 thetaB=ccw_315 shiftA=0.1007384 shiftB=10.31182
+ relativePos=(-0.50, 0.49, 8.00) 
+cID=140 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=325.3118
+thetaA=ccw_135 thetaB=ccw_315 shiftA=0.1007384 shiftB=10.31182
+ relativePos=(1.76, -1.22, 8.00) 
+cID=141 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=267.4576
+thetaA=ccw_225 thetaB=ccw_0 shiftA=42.45763 shiftB=25.08494
+ relativePos=(-0.01, -0.17, 2.00) 
+cID=141 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=25.08494
+thetaA=ccw_225 thetaB=ccw_0 shiftA=42.45763 shiftB=25.08494
+ relativePos=(0.84, 0.40, 2.00) 
+cID=142 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=139.3088
+thetaA=ccw_135 thetaB=ccw_315 shiftA=4.308781 shiftB=33.62553
+ relativePos=(-0.13, 0.11, 2.00) 
+cID=142 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=348.6255
+thetaA=ccw_135 thetaB=ccw_315 shiftA=4.308781 shiftB=33.62553
+ relativePos=(2.29, -0.46, 5.00) 
+cID=143 ecceA=1 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.1749773 final thetaA=269.8274
+thetaA=ccw_225 thetaB=ccw_90 shiftA=44.82741 shiftB=10.10315
+ relativePos=(0.00, -0.17, 2.00) 
+cID=143 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=100.1031
+thetaA=ccw_225 thetaB=ccw_90 shiftA=44.82741 shiftB=10.10315
+ relativePos=(-0.65, 3.67, 8.00) 
+cID=144 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=152.42
+thetaA=ccw_135 thetaB=ccw_270 shiftA=17.41997 shiftB=19.27477
+ relativePos=(-0.39, 0.20, 5.00) 
+cID=144 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=289.2748
+thetaA=ccw_135 thetaB=ccw_270 shiftA=17.41997 shiftB=19.27477
+ relativePos=(0.31, -0.88, 2.00) 
+cID=145 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=41.08989
+thetaA=ccw_0 thetaB=ccw_180 shiftA=41.08989 shiftB=8.513906
+ relativePos=(0.33, 0.29, 5.00) 
+cID=145 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=188.5139
+thetaA=ccw_0 thetaB=ccw_180 shiftA=41.08989 shiftB=8.513906
+ relativePos=(-2.31, -0.35, 5.00) 
+cID=146 ecceA=1 depthA=2 sizeA=2 depthA=5 ecce_radiusA=0.4374433 final thetaA=120.3997
+thetaA=ccw_90 thetaB=ccw_180 shiftA=30.39971 shiftB=37.6791
+ relativePos=(-0.22, 0.38, 5.00) 
+cID=146 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=217.6791
+thetaA=ccw_90 thetaB=ccw_180 shiftA=30.39971 shiftB=37.6791
+ relativePos=(-2.95, -2.28, 8.00) 
+cID=147 ecceA=1 depthA=3 sizeA=2 depthA=8 ecce_radiusA=0.6999093 final thetaA=103.9394
+thetaA=ccw_90 thetaB=ccw_315 shiftA=13.93938 shiftB=12.43506
+ relativePos=(-0.17, 0.68, 8.00) 
+cID=147 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=327.4351
+thetaA=ccw_90 thetaB=ccw_315 shiftA=13.93938 shiftB=12.43506
+ relativePos=(0.79, -0.50, 2.00) 
+cID=148 ecceA=1 depthA=3 sizeA=2 depthA=8 ecce_radiusA=0.6999093 final thetaA=289.17
+thetaA=ccw_270 thetaB=ccw_225 shiftA=19.17 shiftB=21.09589
+ relativePos=(0.23, -0.66, 8.00) 
+cID=148 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=246.0959
+thetaA=ccw_270 thetaB=ccw_225 shiftA=19.17 shiftB=21.09589
+ relativePos=(-0.94, -2.13, 5.00) 
+cID=149 ecceA=1 depthA=3 sizeA=2 depthA=8 ecce_radiusA=0.6999093 final thetaA=57.573
+thetaA=ccw_45 thetaB=ccw_225 shiftA=12.573 shiftB=28.84656
+ relativePos=(0.38, 0.59, 8.00) 
+cID=149 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=253.8466
+thetaA=ccw_45 thetaB=ccw_225 shiftA=12.573 shiftB=28.84656
+ relativePos=(-1.04, -3.58, 8.00) 
+cID=150 ecceA=2 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.5358984 final thetaA=13.43534
+thetaA=ccw_0 thetaB=ccw_90 shiftA=13.43534 shiftB=40.15351
+ relativePos=(0.52, 0.12, 2.00) 
+cID=150 ecceB=2 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.5358984 final thetaB=130.1535
+thetaA=ccw_0 thetaB=ccw_90 shiftA=13.43534 shiftB=40.15351
+ relativePos=(-0.35, 0.41, 2.00) 
+cID=151 ecceA=2 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.5358984 final thetaA=106.0763
+thetaA=ccw_90 thetaB=ccw_45 shiftA=16.07633 shiftB=9.504011
+ relativePos=(-0.15, 0.51, 2.00) 
+cID=151 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=54.50401
+thetaA=ccw_90 thetaB=ccw_45 shiftA=16.07633 shiftB=9.504011
+ relativePos=(0.78, 1.09, 5.00) 
+cID=152 ecceA=2 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.5358984 final thetaA=192.3638
+thetaA=ccw_180 thetaB=ccw_315 shiftA=12.36375 shiftB=41.68527
+ relativePos=(-0.52, -0.11, 2.00) 
+cID=152 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=356.6853
+thetaA=ccw_180 thetaB=ccw_315 shiftA=12.36375 shiftB=41.68527
+ relativePos=(2.14, -0.12, 8.00) 
+cID=153 ecceA=2 depthA=2 sizeA=2 depthA=5 ecce_radiusA=1.339746 final thetaA=5.633101
+thetaA=ccw_0 thetaB=ccw_270 shiftA=5.633101 shiftB=28.32111
+ relativePos=(1.33, 0.13, 5.00) 
+cID=153 ecceB=2 depthB=2 sizeB=2 depthB=5 ecce_radiusB=1.339746 final thetaB=298.3211
+thetaA=ccw_0 thetaB=ccw_270 shiftA=5.633101 shiftB=28.32111
+ relativePos=(0.64, -1.18, 5.00) 
+cID=154 ecceA=2 depthA=2 sizeA=2 depthA=5 ecce_radiusA=1.339746 final thetaA=343.7112
+thetaA=ccw_315 thetaB=ccw_90 shiftA=28.71114 shiftB=40.85347
+ relativePos=(1.29, -0.38, 5.00) 
+cID=154 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=130.8535
+thetaA=ccw_315 thetaB=ccw_90 shiftA=28.71114 shiftB=40.85347
+ relativePos=(-1.40, 1.62, 8.00) 
+cID=155 ecceA=2 depthA=3 sizeA=2 depthA=8 ecce_radiusA=2.143594 final thetaA=147.3195
+thetaA=ccw_135 thetaB=ccw_0 shiftA=12.31946 shiftB=2.115592
+ relativePos=(-1.80, 1.16, 8.00) 
+cID=155 ecceB=2 depthB=3 sizeB=2 depthB=8 ecce_radiusB=2.143594 final thetaB=2.115592
+thetaA=ccw_135 thetaB=ccw_0 shiftA=12.31946 shiftB=2.115592
+ relativePos=(2.14, 0.08, 8.00) 
+cID=156 ecceA=2 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.5358984 final thetaA=3.52946
+thetaA=ccw_0 thetaB=ccw_270 shiftA=3.52946 shiftB=32.03733
+ relativePos=(0.53, 0.03, 2.00) 
+cID=156 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=302.0373
+thetaA=ccw_0 thetaB=ccw_270 shiftA=3.52946 shiftB=32.03733
+ relativePos=(0.49, -0.79, 2.00) 
+cID=157 ecceA=2 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.5358984 final thetaA=26.1882
+thetaA=ccw_0 thetaB=ccw_45 shiftA=26.1882 shiftB=14.59639
+ relativePos=(0.48, 0.24, 2.00) 
+cID=157 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=59.59639
+thetaA=ccw_0 thetaB=ccw_45 shiftA=26.1882 shiftB=14.59639
+ relativePos=(1.18, 2.01, 5.00) 
+cID=158 ecceA=2 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.5358984 final thetaA=227.1821
+thetaA=ccw_225 thetaB=ccw_90 shiftA=2.182143 shiftB=18.61138
+ relativePos=(-0.36, -0.39, 2.00) 
+cID=158 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=108.6114
+thetaA=ccw_225 thetaB=ccw_90 shiftA=2.182143 shiftB=18.61138
+ relativePos=(-1.19, 3.54, 8.00) 
+cID=159 ecceA=2 depthA=2 sizeA=2 depthA=5 ecce_radiusA=1.339746 final thetaA=129.8092
+thetaA=ccw_90 thetaB=ccw_90 shiftA=39.80921 shiftB=44.04478
+ relativePos=(-0.86, 1.03, 5.00) 
+cID=159 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=134.0448
+thetaA=ccw_90 thetaB=ccw_90 shiftA=39.80921 shiftB=44.04478
+ relativePos=(-0.65, 0.67, 2.00) 
+cID=160 ecceA=2 depthA=2 sizeA=2 depthA=5 ecce_radiusA=1.339746 final thetaA=152.6429
+thetaA=ccw_135 thetaB=ccw_0 shiftA=17.64287 shiftB=26.60547
+ relativePos=(-1.19, 0.62, 5.00) 
+cID=160 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=26.60547
+thetaA=ccw_135 thetaB=ccw_0 shiftA=17.64287 shiftB=26.60547
+ relativePos=(2.08, 1.04, 5.00) 
+cID=161 ecceA=2 depthA=2 sizeA=2 depthA=5 ecce_radiusA=1.339746 final thetaA=84.87756
+thetaA=ccw_45 thetaB=ccw_45 shiftA=39.87756 shiftB=14.66492
+ relativePos=(0.12, 1.33, 5.00) 
+cID=161 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=59.66492
+thetaA=ccw_45 thetaB=ccw_45 shiftA=39.87756 shiftB=14.66492
+ relativePos=(1.88, 3.22, 8.00) 
+cID=162 ecceA=2 depthA=3 sizeA=2 depthA=8 ecce_radiusA=2.143594 final thetaA=174.0685
+thetaA=ccw_135 thetaB=ccw_90 shiftA=39.06847 shiftB=25.04943
+ relativePos=(-2.13, 0.22, 8.00) 
+cID=162 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=115.0494
+thetaA=ccw_135 thetaB=ccw_90 shiftA=39.06847 shiftB=25.04943
+ relativePos=(-0.39, 0.84, 2.00) 
+cID=163 ecceA=2 depthA=3 sizeA=2 depthA=8 ecce_radiusA=2.143594 final thetaA=126.9904
+thetaA=ccw_90 thetaB=ccw_0 shiftA=36.99044 shiftB=2.699466
+ relativePos=(-1.29, 1.71, 8.00) 
+cID=163 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=2.699466
+thetaA=ccw_90 thetaB=ccw_0 shiftA=36.99044 shiftB=2.699466
+ relativePos=(2.33, 0.11, 5.00) 
+cID=164 ecceA=2 depthA=3 sizeA=2 depthA=8 ecce_radiusA=2.143594 final thetaA=322.4649
+thetaA=ccw_315 thetaB=ccw_180 shiftA=7.464947 shiftB=34.00378
+ relativePos=(1.70, -1.31, 8.00) 
+cID=164 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=214.0038
+thetaA=ccw_315 thetaB=ccw_180 shiftA=7.464947 shiftB=34.00378
+ relativePos=(-3.09, -2.09, 8.00) 
+cID=165 ecceA=3 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.9326153 final thetaA=67.28759
+thetaA=ccw_45 thetaB=ccw_225 shiftA=22.28759 shiftB=41.2007
+ relativePos=(0.36, 0.86, 2.00) 
+cID=165 ecceB=3 depthB=1 sizeB=2 depthB=2 ecce_radiusB=0.9326153 final thetaB=266.2007
+thetaA=ccw_45 thetaB=ccw_225 shiftA=22.28759 shiftB=41.2007
+ relativePos=(-0.06, -0.93, 2.00) 
+cID=166 ecceA=3 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.9326153 final thetaA=98.51159
+thetaA=ccw_90 thetaB=ccw_180 shiftA=8.511588 shiftB=4.060339
+ relativePos=(-0.14, 0.92, 2.00) 
+cID=166 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=184.0603
+thetaA=ccw_90 thetaB=ccw_180 shiftA=8.511588 shiftB=4.060339
+ relativePos=(-2.33, -0.17, 5.00) 
+cID=167 ecceA=3 depthA=1 sizeA=2 depthA=2 ecce_radiusA=0.9326153 final thetaA=8.084977
+thetaA=ccw_0 thetaB=ccw_225 shiftA=8.084977 shiftB=21.87072
+ relativePos=(0.92, 0.13, 2.00) 
+cID=167 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=246.8707
+thetaA=ccw_0 thetaB=ccw_225 shiftA=8.084977 shiftB=21.87072
+ relativePos=(-1.47, -3.43, 8.00) 
+cID=168 ecceA=3 depthA=2 sizeA=2 depthA=5 ecce_radiusA=2.331538 final thetaA=276.0083
+thetaA=ccw_270 thetaB=ccw_0 shiftA=6.008266 shiftB=23.60858
+ relativePos=(0.24, -2.32, 5.00) 
+cID=168 ecceB=3 depthB=2 sizeB=2 depthB=5 ecce_radiusB=2.331538 final thetaB=23.60858
+thetaA=ccw_270 thetaB=ccw_0 shiftA=6.008266 shiftB=23.60858
+ relativePos=(2.14, 0.93, 5.00) 
+cID=169 ecceA=3 depthA=2 sizeA=2 depthA=5 ecce_radiusA=2.331538 final thetaA=35.57364
+thetaA=ccw_0 thetaB=ccw_90 shiftA=35.57364 shiftB=41.77588
+ relativePos=(1.90, 1.36, 5.00) 
+cID=169 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=131.7759
+thetaA=ccw_0 thetaB=ccw_90 shiftA=35.57364 shiftB=41.77588
+ relativePos=(-2.49, 2.78, 8.00) 
+cID=170 ecceA=3 depthA=3 sizeA=2 depthA=8 ecce_radiusA=3.730461 final thetaA=238.9733
+thetaA=ccw_225 thetaB=ccw_180 shiftA=13.97327 shiftB=11.09915
+ relativePos=(-1.92, -3.20, 8.00) 
+cID=170 ecceB=3 depthB=3 sizeB=2 depthB=8 ecce_radiusB=3.730461 final thetaB=191.0992
+thetaA=ccw_225 thetaB=ccw_180 shiftA=13.97327 shiftB=11.09915
+ relativePos=(-3.66, -0.72, 8.00) 
