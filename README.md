@@ -7,6 +7,41 @@ The dataset for Section II includes a single experiment involving 16 users. In c
 
 Additionally, there are two corresponding project folders: sec_ii_project for Section II and sec_iv_project for Section IV. Each project file is specifically designed to work with its respective dataset.
 
+## Processing Section II data
+
+The raw data for each experiment is organized in a slightly different format. Section II data needs to be processed in order to be used with the Gaze Visualizer. Section IV data does not need to be processed.
+
+For Section II data: 
+- run python/process_section_ii_data.py. 
+- Press the “Load VR” button. 
+- Navigate to the extracted folder (which should contain subfolders 1-16) and select it. 
+The code should reorganize the data into a single CSV. This file contains a lot of extra information that is not needed for the Gaze Visualizer.
+
+To speed up import time, run python/reduce_sec_ii_data.py, and only include the following categories:
+1. AR_VR
+2. User
+3. Time
+4. ConditionID
+5. CalibDir
+6. GazeDir
+7. GazeOrg
+8. MainCameraPos
+9. MainCameraFor
+10. MainCameraUp
+11. MainCameraRight
+12. A_ecce
+13. A_depth
+14. A_size
+15. A_gabor
+16. A_worldPos
+17. B_ecce
+18. B_depth
+19. B_size
+20. B_gabor
+21. B_worldPos
+
+Click “Run”. The file will be saved as “full_data_reduced.csv” in the same folder. This file can be imported into the Gaze Visualizer in sec_ii_project.
+
 ## Working with Section II Data
 To run the Gaze Visualizer for the Section II experiments:
 - Download sec_ii_project.
@@ -63,41 +98,6 @@ To classify:
 - Press Alpha3 to clear classification for that trial.
 - Press Numpad Enter to trigger autoclassification, which can be paused with the “K” key.
 - To export the data once classification is finished, press F5 and select a directory.
-
-## (Optional) Processing the Data
-
-The raw data for each experiment is organized in a slightly different format. Section II data needs to be processed in order to be used with the Gaze Visualizer. Section IV data does not need to be processed.
-
-For Section II data: 
-- run python/process_section_ii_data.py. 
-- Press the “Load VR” button. 
-- Navigate to the extracted folder (which should contain subfolders 1-16) and select it. 
-The code should reorganize the data into a single CSV. This file contains a lot of extra information that is not needed for the Gaze Visualizer.
-
-To speed up import time, run python/reduce_sec_ii_data.py, and only include the following categories:
-1. AR_VR
-2. User
-3. Time
-4. ConditionID
-5. CalibDir
-6. GazeDir
-7. GazeOrg
-8. MainCameraPos
-9. MainCameraFor
-10. MainCameraUp
-11. MainCameraRight
-12. A_ecce
-13. A_depth
-14. A_size
-15. A_gabor
-16. A_worldPos
-17. B_ecce
-18. B_depth
-19. B_size
-20. B_gabor
-21. B_worldPos
-
-Click “Run”. The file will be saved as “full_data_reduced.csv” in the same folder. This file can be imported into the Gaze Visualizer in sec_ii_project. For your convenience, this file has been included.
 
 
 
