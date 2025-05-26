@@ -61,7 +61,7 @@ To run the Gaze Visualizer for the Section II experiments:
 - Run in editor using the Play Button
 - Optional: You can adjust the FOV slider on the camera to make the spheres easier to see, or you can enable Unity Mock HMD under XR Plugin Management (once installed) in Project Settings. Alternatively, if you connect an HTC Vive Pro (or Pro Eye), install Steam VR, and add it to the project, you can set up the camera such that you can view what the user was looking at directly through the headset.
 
-You will need to either manually process the data (See Processing the Data section), or use data/sec_ii_full_data_reduced.csv and import it using the Import CSV button, which will take a long time.
+You will need to import the full_data_reduced.csv file created in the "Processing Section II Data" section, and import it using the Import CSV button, which will take a long time. To speed up the loading process next time, click "Save Data File" after import, and in future runs, just click "Load Data File".
 
 Once data has been loaded/imported, click “Explore Trials”. The scene will change. Basic navigation controls are listed at the bottom of the window. Here you can play through trials, and classify them or auto-classify them.
 To classify:
