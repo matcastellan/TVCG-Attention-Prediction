@@ -55,7 +55,8 @@ To run the Gaze Visualizer for the Section II experiments:
   - ProBuilder 5.0.7
   - TextMeshPro 3.0.6 (Choose to Import TextMeshPro Essentials when prompted)
   - Unity UI 1.0.0
-- Add each scene in the Scenes folder to the Build Settings (File-Build Settings-Add Open Scenes)
+- Open each scene in the Scenes folder, and add it to the Build Settings (File-Build Settings-Add Open Scenes).
+  - If you see the TMP Importer window appear, click "Import TMP Essentials"
 - Open Scenes/Menu
 - Run in editor using the Play Button
 - Optional: You can adjust the FOV slider on the camera to make the spheres easier to see, or you can enable Unity Mock HMD under XR Plugin Management (once installed) in Project Settings. Alternatively, if you connect an HTC Vive Pro (or Pro Eye), install Steam VR, and add it to the project, you can set up the camera such that you can view what the user was looking at directly through the headset.
