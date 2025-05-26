@@ -93,10 +93,9 @@ To run the Gaze Visualizer for the Section IV experiments:
 - Open each scene in the Scenes folder, and add it to the Build Settings (File-Build Settings-Add Open Scenes).
   - If you see the TMP Importer window appear, click "Import TMP Essentials"
 - Open the relevant scene.
+- Select the ReplayController GameObject, go to its "ReplayTester" component, and change the field "User Folder Path" to the location of the relevant dataset in sec_iv_experiments (e.g., C:/....motion/cemetery)
 - Run in editor using the Play Button
 - Optional: You can adjust the FOV slider on the camera to make the spheres easier to see, or you can enable Unity Mock HMD under XR Plugin Management (once installed) in Project Settings. Alternatively, if you connect an HTC Vive Pro (or Pro Eye), install Steam VR, and add it to the project, you can set up the camera such that you can view what the user was looking at directly through the headset.
-
-Modify “User Folder Path” on the Replay Tester attribute with the path of the Sec. IV experiment that you’d like to run.
 
 Basic navigation controls are listed on the screen. 
 To classify:
