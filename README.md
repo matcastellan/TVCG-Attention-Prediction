@@ -90,7 +90,8 @@ To run the Gaze Visualizer for the Section IV experiments:
   - Import the .fbx file into Space Shuttle - source
   - Import the BaseColor.png file into Space Shuttle - textures
   - Using a text editor, edit the .meta file for the .fbx file to have the following GUID: 19925ee165407a84e93347315ea73501
-- Add each scene in the Scenes folder to the Build Settings (File-Build Settings-Add Open Scenes)
+- Open each scene in the Scenes folder, and add it to the Build Settings (File-Build Settings-Add Open Scenes).
+  - If you see the TMP Importer window appear, click "Import TMP Essentials"
 - Open the relevant scene.
 - Run in editor using the Play Button
 - Optional: You can adjust the FOV slider on the camera to make the spheres easier to see, or you can enable Unity Mock HMD under XR Plugin Management (once installed) in Project Settings. Alternatively, if you connect an HTC Vive Pro (or Pro Eye), install Steam VR, and add it to the project, you can set up the camera such that you can view what the user was looking at directly through the headset.
