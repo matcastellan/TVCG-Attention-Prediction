@@ -18,7 +18,8 @@ For Section II data:
   - pytorch
 - run python/process_section_ii_data.py. 
 - Press the “Load VR” button. 
-- Navigate to the extracted folder (which should contain subfolders 1-16) and select it. 
+- Navigate to the sec_ii_experiments folder (which should contain subfolders 1-16) and select it.
+- Press the Run button
 The code should reorganize the data into a single CSV. This file contains a lot of extra information that is not needed for the Gaze Visualizer.
 
 To speed up import time, run python/reduce_sec_ii_data.py, and only include the following categories:
