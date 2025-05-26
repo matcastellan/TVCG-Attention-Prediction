@@ -20,9 +20,9 @@ For Section II data:
 - Press the “Load VR” button. 
 - Navigate to the sec_ii_experiments folder (which should contain subfolders 1-16) and select it.
 - Press the Run button
-The code should reorganize the data into a single CSV. This file contains a lot of extra information that is not needed for the Gaze Visualizer.
+The code should reorganize the data into a single CSV (full_data.csv). This file contains a lot of extra information that is not needed for the Gaze Visualizer.
 
-To speed up import time, run python/reduce_sec_ii_data.py, and only include the following categories:
+To speed up import time, run python/reduce_sec_ii_data.py on full_data.csv, and only include the following categories:
 1. AR_VR
 2. User
 3. Time
