@@ -12,6 +12,10 @@ Additionally, there are two corresponding project folders: sec_ii_project for Se
 The raw data for each experiment is organized in a slightly different format. Section II data needs to be processed in order to be used with the Gaze Visualizer. Section IV data does not need to be processed.
 
 For Section II data: 
+- install python dependencies:
+  - numpy
+  - pandas
+  - pytorch
 - run python/process_section_ii_data.py. 
 - Press the “Load VR” button. 
 - Navigate to the extracted folder (which should contain subfolders 1-16) and select it. 
